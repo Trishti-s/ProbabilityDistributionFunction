@@ -17,8 +17,8 @@ This project transforms NO2 concentration data using a roll-number-parameterized
 ## Transformation Details
 
 - Roll Number: 102313056
-- ar = 0.05 × (r mod 7) = 0.1
-- br = 0.3 × (r mod 5 + 1) = 0.6
+- ar = 0.05 × (r mod 7) 
+- br = 0.3 × (r mod 5 + 1) 
 
 Transformation applied:
 
